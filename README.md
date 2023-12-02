@@ -1,1 +1,0 @@
-# Aula-2-V-riaveis-e-tipos-de-dados
